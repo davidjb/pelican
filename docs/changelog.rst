@@ -5,6 +5,8 @@ Release history
 ================
 
 * Support for Python 3!
+* Provide ability to show or hide categories from menu using
+  ``DISPLAY_CATEGORIES_ON_MENU`` option.
 
 3.1 (2012-12-04)
 ================
